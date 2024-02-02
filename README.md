@@ -1,9 +1,10 @@
 # txphysicians
 Web application that provides access to the Roster of Deceased Texas Physicians (also known as “Gazetteer of Deceased TX Physicians: 19th &amp; 20th Century” or simply “TX Physicians”). 
 
-Significant contributions by Wende Wang in January 2024, including development of advanced search form, dynamic count of results, database management, and image integration.
-
 [saneyates.org/txphysicians](https://saneyates.org/txphysicians/)
+
+## Acknowledgements 
+Significant contributions by Wende Wang in January 2024, including development of advanced search form, dynamic count of results, database management, and image integration.
 
 ## About
 https://library.tmc.edu/mcgovern/roster-of-deceased-texas-physicians/
