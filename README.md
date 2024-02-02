@@ -14,4 +14,4 @@ Currently the complete Dead Docs database is only available to the public as 16 
 
 In 2012, an in-house programmer created a useful web application using Cold Fusion Markup Language that allowed users and library staff to easily search the database online. When the library website was redesigned in 2014, the cold fusion server was taken offline and the web application was no longer available. 
 
-In 2024, Wende Wang adapted the database converting it to mysql and developed a web application based in php. In the course of the project, he made significant contributions to the web application model developed by Sandra Yates (github.com/sane8s). Contributions include development of advanced search form, dynamic count of results, database management, and image integration.
+In 2024, Wende Wang adapted the database converting it to mysql and developed a web application based in php. In the course of the project, he made significant contributions to the web application framework developed by Sandra Yates (github.com/sane8s). Contributions include development of advanced search form, dynamic count of results, database management, and image integration.
